@@ -1,0 +1,1 @@
+Simple CLI tool to calculate productivity metrics like calls per hour for employees in a call center.
