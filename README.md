@@ -20,7 +20,7 @@ A simple command-line Python app to compute productivity metrics (i.e. calls per
 
 ## Usage
 
-- Run app
+- Run app.
 - When prompted, type in the number of minutes as an integer and hit Enter.
 - Type in any additional minutes to add and hit Enter.
 - If there are no additional number of minutes to add then leave blank and hit Enter.
